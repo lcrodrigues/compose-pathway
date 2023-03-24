@@ -1,66 +1,12 @@
-# Jetpack Compose Codelabs
+# Basic Layouts in Compose Codelab
 
-This repository contains a set of Android Studio projects to help you learn about
-Compose in Android. Each sample contains the code for a specific Compose codelab.
-
-For more information about Jetpack Compose, please [read the documentation](https://developer.android.com/jetpack/compose)
-
-## 💻 Requirements
-
-[Android Studio Chipmunk](https://developer.android.com/studio).
-
-## 🧬 Codelabs
-
-### [Basics codelabs](https://developer.android.com/codelabs/jetpack-compose-basics)
-
-Go hands-on and learn the fundamentals of declarative UI, working with state, layouts and theming.
-
-### [Basic layouts codelab](https://developer.android.com/codelabs/jetpack-compose-layouts)
-
-Learn how to implement real-world designs with the composables and modifiers that Compose provides out of the box.
-
-### [State codelab](https://developer.android.com/codelabs/jetpack-compose-state)
-
-Understand patterns for working with state in a declarative world by building a Wellness application.
-
-### [Theming codelab](https://developer.android.com/codelabs/jetpack-compose-theming)
-
-Go hands on with Compose’s implementation of Material Design to understand how to theme an
-application’s colors, typography and shapes and support light and dark themes.
-
-### [Migration codelab](https://developer.android.com/codelabs/jetpack-compose-migration)
-
-Understand how Jetpack Compose and View-based UIs can co-exist and interact, making it easy to
-adopt Compose at your own pace.
-
-### [Animation codelab](https://developer.android.com/codelabs/jetpack-compose-animation)
-
-Learn how to use Jetpack Compose Animation APIs.
-
-### [Navigation codelab](https://developer.android.com/codelabs/jetpack-compose-navigation)
-
-Learn how to use the Jetpack Navigation library in Compose, navigate within your application,
-navigate with arguments, support deep-links, and test your navigation.
-
-### [Testing codelab](https://developer.android.com/codelabs/jetpack-compose-testing)
-
-Learn about testing Jetpack Compose UIs. Write your first tests, and learn about testing in
-isolation, debugging tests, the semantics tree, and test synchronization.
-
-### [Accessibility codelab](https://developer.android.com/codelabs/jetpack-compose-accessibility)
-
-Learn about the various ways to improve an app’s accessibility. Increase touch target sizes, add
-content descriptions, create custom actions, and more.
-
-### [Adaptive codelab](https://developer.android.com/codelabs/jetpack-compose-adaptability)
- 
-Learn how to build adaptive apps for phones, tablets and foldables with Jetpack Compose. Improve 
-reachability and ergonomics of your app with Material navigation components. 
+This folder contains the source code for
+the [Basic Layouts in Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-layouts)
 
 ## License
 
 ```
-Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -74,3 +20,18 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+## Image asset attributions
+
+[fc1_short_mantras.jpg](https://www.pexels.com/photo/body-of-water-view-1825206/) - Elizaveta Kozorezova
+[fc2_nature_meditations.jpg](https://www.pexels.com/photo/photo-of-green-leaves-3571551/) - Nothing Ahead
+[fc3_stress_and_anxiety.jpg](https://www.pexels.com/photo/aerial-view-of-body-of-water-1557238/) - Jim
+[fc4_self_massage.jpg](https://www.pexels.com/photo/photography-of-stones-1029604/) - Scott Webb
+[fc5_overwhelmed.jpg](https://www.pexels.com/photo/white-clouds-3560044/) - Ruvim
+[fc6_nightly_wind_down.jpg](https://www.pexels.com/photo/time-lapse-photo-of-stars-on-night-924824/) - Jakub Novacek
+[ab1_inversions.jpg](https://www.pexels.com/photo/low-angle-view-of-woman-relaxing-on-beach-against-blue-sky-317157/) - Chevanon Photography
+[ab2_quick_yoga.jpg](https://www.pexels.com/photo/photo-of-woman-stretching-her-body-1812964/) - Agung Pandit Wiguna
+[ab3_stretching.jpg](https://www.pexels.com/photo/photo-of-women-stretching-together-4056723/) - Cliff Booth
+[ab4_tabata.jpg](https://www.pexels.com/photo/fashion-man-people-art-4662438/) - Elly Fairytale
+[ab5_hiit.jpg](https://www.pexels.com/photo/man-wearing-white-pants-under-blue-sky-999309/) - The Lazy Artist Gallery
+[ab6_pre_natal_yoga.jpg](https://www.pexels.com/photo/woman-doing-yoga-396133/) - freestocks.org
