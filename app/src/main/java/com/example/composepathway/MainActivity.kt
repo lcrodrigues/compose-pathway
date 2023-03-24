@@ -19,6 +19,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
@@ -51,10 +52,11 @@ fun MessageCard(message: Message) {
         Image(
             painter = painterResource(id = R.drawable.stitch),
             contentDescription = "Contact profile picture",
+            contentScale = ContentScale.Crop,
             modifier = Modifier
                 .size(40.dp)
                 .clip(CircleShape)
-                .border(3.dp, MaterialTheme.colors.secondary, CircleShape)
+                .border(1.5.dp, MaterialTheme.colors.secondary, CircleShape)
         )
 
         Spacer(modifier = Modifier.width(8.dp))
